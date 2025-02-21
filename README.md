@@ -24,3 +24,17 @@ This project is an AI-powered **Emotion Detector** built using **TensorFlow, Ker
 ## 📂 Dataset Structure  
 Ensure the dataset is structured as follows:  
 
+
+Replace `/root/.cache/kagglehub/datasets/msambare/fer2013/versions/1` with your actual dataset path.
+
+---
+
+## 🚀 Installation & Setup  
+
+### 1️⃣ Install Dependencies  
+```bash
+pip install numpy pandas matplotlib tensorflow opencv-python
+git clone https://github.com/Muhammad-Zeeshan-Burki/Emotion_Detector.git
+cd emotion-detector
+📜 License
+This project is licensed under the MIT License.
